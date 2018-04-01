@@ -1,8 +1,5 @@
 This is some code!
 This is some code added by another user!
 This is third luine by USer 1
-<<<<<<< HEAD
 four line will be added by user 1!
-=======
-four line will be added by user 2
->>>>>>> 4f44850e4246b4b4d1cca5cde8d3f1bbff30cf1f
+
